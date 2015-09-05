@@ -1,2 +1,2 @@
 # rubiks-cube
-Rubik's Cube in Java.
+Rubik's Cube in Java
